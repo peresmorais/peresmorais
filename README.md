@@ -1,7 +1,9 @@
+<a href="https://www.credly.com/earner/earned/badge/7052502f-eee7-4314-864d-4e7158ee9d6a" target="_blank"><img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Cisco Instructor" width="120" /></a><a href="https://www.credly.com/earner/earned/badge/d90b0a88-8b2e-4551-a132-78bec213db55" target="_blank"><img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Badge 2" width="120" /></a><a href="https://www.credly.com/badges/68a5e05d-7561-4f9b-89d9-d2b8650d2768" target="_blank"><img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="Badge 3" width="120" /></a>
 
-<a href="https://www.credly.com/earner/earned/badge/7052502f-eee7-4314-864d-4e7158ee9d6a" target="_blank">
+
+<!-- <a href="https://www.credly.com/earner/earned/badge/7052502f-eee7-4314-864d-4e7158ee9d6a" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Badge 1" width="120" />
-</a>
+</a> -->
 
 <!-- <a href="https://www.credly.com/earner/earned/badge/d90b0a88-8b2e-4551-a132-78bec213db55" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Badge 1" width="120" />
