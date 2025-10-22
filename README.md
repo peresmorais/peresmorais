@@ -3,7 +3,7 @@
   <img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Badge 1" width="120" />
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/d90b0a88-8b2e-4551-a132-78bec213db55" target="_blank">
+<!-- <a href="https://www.credly.com/earner/earned/badge/d90b0a88-8b2e-4551-a132-78bec213db55" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Badge 1" width="120" />
 </a>
 
@@ -21,4 +21,4 @@
 
 <a href="https://www.credly.com/earner/earned/badge/741dee93-be3d-4d2f-9bb8-a1394cf432f8" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Badge 3" width="120" />
-</a>
+</a> -->
