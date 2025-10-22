@@ -1,7 +1,1 @@
 [![Cisco Networking Academy Instructor](https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png)](https://www.credly.com/badges/4802acaa-a2f7-49be-9a8e-666fa3f42e41)  
-[![Badge 2](https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad)  
-[![Badge 3](https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df)  
-[![Badge 4](https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)](https://www.credly.com/badges/b93bf373-3da6-4ada-9879-a0c39d6a11f8)  
-[![Badge 5](https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png)](https://www.credly.com/badges/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f)  
-[![Badge 6](https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/68c0b94d-f6ac-40b1-a0e0-921439eb092e)  
-[![Badge 7](https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](https://www.credly.com/badges/3f802526-7274-4230-91ab-f6d1a35340e6)
