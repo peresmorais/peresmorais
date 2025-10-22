@@ -4,3 +4,6 @@
 <a href="https://www.credly.com/badges/d4d72879-08bf-42f5-855f-02cf0547c9c5" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
     <img src="https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" alt="Segundo Certificado Credly" width="150" />
   </a>
+<a href="https://www.credly.com/badges/68a5e05d-7561-4f9b-89d9-d2b8650d2768" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
+    <img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="Segundo Certificado Credly" width="150" />
+  </a>
