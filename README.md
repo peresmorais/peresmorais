@@ -7,3 +7,9 @@
 <a href="https://www.credly.com/badges/68a5e05d-7561-4f9b-89d9-d2b8650d2768" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="Badge 3" width="120" />
 </a>
+<a href="https://www.credly.com/earner/earned/badge/4a6327ad-8f5e-4a4c-8d09-0a20868a3654" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Badge 3" width="120" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/741dee93-be3d-4d2f-9bb8-a1394cf432f8" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Badge 3" width="120" />
+</a>
